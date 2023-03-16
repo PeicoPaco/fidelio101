@@ -1,0 +1,7 @@
+node_modules/
+.build/
+.vscode/
+.github/
+build/
+src/assets/
+public/

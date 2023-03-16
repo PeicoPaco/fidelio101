@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fidelio-core-platform-test",
+  "private_key_id": "77acab131171b93d73981c2ddc11c1c9826ccb75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDhZFKduKZ9RPId\nR1GWNMcpjuZME6uUrNZUbUKm/4SZoTRCzJmGHxLQZAJwBe97PXuZXbQWJeE/0Pln\nHJZ95J3xacdk0hLbVKNGxkvTRuagHLS4sJWzeuQ4sdQURDZn/J5IsidPP7MbQo/l\niNE+aJJY5Geah/XXsR0egZ0mSp7fQpK6S/juUVCRQUNs4p9ZYcpIgUC6bjbza9bt\nMsFW3Vj/2858zCbVWFbvdPfrlkrhaGwkQQJGMS59B9sUVcKLX3t8ST+twCKHBW2r\n1/Oc7P8iLvEQlx5mTWgoAkN0q51+oLe/LMfnwqZiPn64hAjEvcZLK0pBjqVKeCAm\nkk58BqrFAgMBAAECggEAXoWQEAzL5WTwlE7AbFmd3FPNSMJHBoalK6rWdOpbVYJB\nRHJBP/nwDeyjCQ+0Kt7R4rNlPpSMLhMZRKC8i/dANWnC8QkYV1rbTmcCjYwCU8s2\nDu4fGbHD2/LXmdgxaNKMHrh3u8he+GOlrQD/n0iDdzvyJuA1vUrNh2mb2d8ZWU7s\nd1+YPXmgcFJQU4Jpam26pC/msVTsfplBHnqydy42fZVUrlSoacPO99ptGo/0PQx/\nnD03aj8SO2WyGIMP7pIrJr2V3TkvQ9lOpzqrIu7iZiSB458CNUH626cdJDN+fM4c\nKa2PYxyBA4O7dHcCt9H5Joz/dBX4i9cg9HCfySfBUQKBgQDxqiiEBlYQYOgpckcv\n47aZReY4Dtye94nmkPaUw1z9Vg+BwX5c0qeBgeNUEoNPgcEYC5q8jz0C3w8XocAd\n/TjT8H1sntv7mKzVtLSOhLFhzsqhYFkhFMr+33jN3o0pnZD0rFeBm/o3s7f/H2iF\nW9NeWCS59QXE0rmphnx6enP3TwKBgQDuww0RdFo0IujWQ5uAVGe+kqiku45V0W3r\nhOwsHJFB9QYQ3HN3+6WcuXNXH9rFTYoTJg4AfoWfDodpHREJi+7mgPJ+HvVSz7bx\n5rt/WL62k78lZj1Du84LRB9EOdMqlvytR5MOoFKL92Upfi8n6jtb1eg3ikuU2rRS\nYJU2Fwm3qwKBgQDbbPcQuXgXswXZ7Ct67jX0AaXBrKzhoj2SHnnmJWUfma7G0Fve\nCF+Tlc5FnfGglV4waQj8wMpS+xoHCRUZpbydo7UelTeEwOHdwRBYf19YQZ123bbP\n9MNEnMBhnPtrl+fwYTOrOWb+gK5Gdcw/mlrXRQ1D05iDWBrANJ59zwXQvQKBgQDE\nLj5ZninT9u8rxsdJjZDk1Kp/GKDeQMO5pjFMGXj9IfAHAKxb5MhyWyq7ZrAiOBEA\npN8SZuMyCwUWSEzMdE8q1L7rBFL85TFj1/stquShLgr8FuK1+eVV+nZaX8zzjLY3\nRr09YlwRJ4jWrBjhCiQV1FAG+roZqA5MNZHErO9OGwKBgQDLciogiLLfoLngBUkt\n05XqVkTJ9LlU9wO81nezwu3uiVb0P1Qqp7frJlF/a4z3t3/g8AZA6KS2Qy31SsF8\nixN3hAWvZMLTEFSJPuyPJjJ++bhzJpcoOBhG9uT0kmFkqW1ExffqaChqzywNh09t\nt7rKPojtFQRRoDEX3K/uS1MnJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dg1lr@fidelio-core-platform-test.iam.gserviceaccount.com",
+  "client_id": "105488341346802616197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dg1lr%40fidelio-core-platform-test.iam.gserviceaccount.com"
+}

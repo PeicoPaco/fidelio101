@@ -1,0 +1,7 @@
+node_modules/
+.env 
+./prod-permissions.json
+./test-permissions.json
+./prod.json
+./test.json 
+uploads
